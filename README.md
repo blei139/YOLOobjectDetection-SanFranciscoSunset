@@ -2,9 +2,9 @@
 This repository is a YOLO object detection project, using the dash camera videoes taken from streets of the Sunset District in 
 San Francisco. The object detection algorithm is YOLO. The YOLO model weights file is 'yolo-tiny.weights'.   The object detection is 
 similiar to SSD, which has weights for object detection. The ipython script, is YOLOobjectDetectionVideoProc.ipynb. This script detects
-objects such stop signs, persons, cars, trucks, and traffic lights. This script processes each frame in the input video by detecting 
+objects such persons, cars, and trucks. This script processes each frame in the input video by detecting 
 objects, using openCV to detect traffic light color specifically for traffic lights. Then, it passes the processed image in each frame 
-into a stream output video with SSD object detection and openCV traffic light color detection.
+into a stream output video with YOLO object detection and openCV traffic light color detection.
 
 Instruction on how to run the ipython script:
 1)  Open the Anaconda prompt
