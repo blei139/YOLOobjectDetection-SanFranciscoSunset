@@ -9,8 +9,11 @@ into a stream output video with YOLO object detection and openCV traffic light c
 Instruction on how to run the ipython script:
 1)  Open the Anaconda prompt
 2)  Type "jupyter notebook" will open up an internet browser
-3)  From your internet browser, click on icons up to the directory where the "YOLOobjectDetectionVideoProc.ipynb" ipython script is 
+3)  From your internet browser, click on icons up to the directory where the "trafficLightColorDetectionOpenCV.ipynb" ipython script is 
     located.
 4)  Double click on this file to run the YOLO objection detection and openCV traffic light color classification.
-5)  Once this file is opened up in your browser, double click on the run button will produce the output videoes where the output 
+5)  Double click on the run button in Anaconda to run the script.
+6)  Once this ipython is completed, from your internet browser, double click on another file to run the YOLO object detection
+    script, "YoloPedestrianCarDetection.ipynb".
+6)  Once this file is opened up in your browser, double click on the run button will produce the output videoes where the output 
     videos are located in the test_videos directory.
