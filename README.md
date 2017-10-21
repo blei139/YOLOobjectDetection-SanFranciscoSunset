@@ -18,3 +18,5 @@ Instruction on how to run the ipython script:
 7)  Once this file is opened up in your browser, double click on the run button will produce the output videoes where the output 
     videos are located in the test_videos directory.
 
+My youtube link:
+https://youtu.be/GnBAox_5xoo
